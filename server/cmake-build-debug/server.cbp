@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="server"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="server">
+				<Option output="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/server.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/include"/>
+					<Add directory="d:\apps\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\apps\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\apps\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\apps\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\apps\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\apps\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 server"/>
+					<CompileFile command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="server/fast">
+				<Option output="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/server.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/include"/>
+					<Add directory="d:\apps\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\apps\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\apps\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\apps\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\apps\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\apps\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 server/fast"/>
+					<CompileFile command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Apps/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/include/algorithms.hpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/include/game.hpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/include/ghost.hpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/include/player.hpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/include/server.hpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/src/a-star.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/src/backtracking.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/src/bresenham_algorithm.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/src/enemies.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/src/game.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/src/genetic_algorithm.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/src/main.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/src/server.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

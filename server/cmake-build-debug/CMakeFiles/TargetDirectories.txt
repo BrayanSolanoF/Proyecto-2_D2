@@ -1,0 +1,3 @@
+C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/CMakeFiles/server.dir
+C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eamu1/Desktop/juego/Spirit_Tower/server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
