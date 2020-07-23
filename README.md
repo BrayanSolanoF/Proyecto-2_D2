@@ -21,7 +21,7 @@ Una vez realizado el paso 1 deberá:
 * Deberá ir a "Master", el cual es un boton que se encuentra en la parte
 superior izquierda de la seccion de "Code".
 * Una vez presionado este botón debe seleccionar el branch de nombre "Esteban".
-* A continuación encontrará tres carpetas, la que le corresponde a usted sera la de nombre "win", debe descargarla.
+* A continuación encontrará tres carpetas, debe descargarlas.
 * Para poder descargar la carpeta debe mirar al extremo superior derecho y seleccionar "code", en el menú que se le despliega tomar la opcion de 
 "Download zip".
 * Al poseer esta carpeta en su unidad, ya usted esta muy cerca de disfrutar del juego "Spirit Tower", usted solo debera descomprimir la carpeta en el lugar de su preferencia.
