@@ -44,9 +44,9 @@ habia visto en github.
 * Selecciona la de "android" y en la que usted notara dos archivos, 
 "juego.apk" es el de su interes, en este momento usted posee dos opciones:
 
-*A)Ejecutarlo desde un emulador en su PC.
+* A)Ejecutarlo desde un emulador en su PC.
 
-*B)Pasar este archivo a su telefono android, donde lo instalara y jugara.
+* B)Pasar este archivo a su telefono android, donde lo instalara y jugara.
 
 **Para Mac:** 
 * Para poder utilizar el juego en la plataforma de Mac deberá dirigirse al boton llamado "Master", ubicado en la parte superior izquierda de la ventana. 
