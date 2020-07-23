@@ -57,7 +57,9 @@ b)Pasar este archivo a su telefono android, donde lo instalara y jugara.
 * Para poder utilizar el juego en la plataforma de Mac deberá dirigirse al boton llamado "Master", ubicado en la parte superior izquierda de la ventana. 
 * Una vez seleccionado se despliega la sección de branches, ahí debe seleccionar "Brayan".
 * Al entrar al branch se despliegan diferentes carpetas, tanto para usuarios como para desarrolladores, deben proceder a descargar las carpetas, para esto debe dirigirse al boton "Code" y elejir la opción "Download zip".
-* Se ejecuta la descarga de la carpeta, al la descarga debe ubicarla en su sección de descargas y dar click derecho para poder descomprimir el archivo.
+* Se ejecuta la descarga de la carpeta, al la descarga debe ubicarla en su sección de descargas con el nombre de "Proyecto-2_D2-Brayan".
+* Un vez se encuentre en la carpeta encontrara un archivo von el nombre "Spirit_TowerEjecutable" deberá dar doble click izquierdo para ejecutarlo.
+* Ya se encuentra disfrutando del juego "Spirit Tower".
 
 
 
