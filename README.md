@@ -56,6 +56,8 @@ habia visto en github.
 * Un vez se encuentre en la carpeta encontrara un archivo von el nombre "Spirit_TowerEjecutable" deberá dar doble click izquierdo para ejecutarlo.
 * Ya se encuentra disfrutando del juego "Spirit Tower".
 
+****************************************************************
+
 **Instrucciones para uso de juego con servidor**
 
 Este paso se considera opcional por tener un implicación más técnica con el 
@@ -69,13 +71,13 @@ conceptos tecnicos.
 
 **Instrucciones del juego para usuario que quiera tener un implicación técnica:**
 
-*En este caso usted necesitará tener el entorno de desarrollo unity en sus 
+* En este caso usted necesitará tener el entorno de desarrollo unity en sus 
 ultimas versiones, este lo debe descargar aca https://unity.com/
 
-*Ademas necesita de un editor de codigo, a recomendacion de los desarrolladores
+* Ademas necesita de un editor de codigo, a recomendacion de los desarrolladores
 de este juego se recomienda https://code.visualstudio.com/
 
-*Y por ultimo un compilador de c++, si bien podria configurar la herramineta de 
+* Y por ultimo un compilador de c++, si bien podria configurar la herramineta de 
 antes mencionada para compilar c++, la recomendacion de los desarrolladores es 
 utilizar este producto https://www.jetbrains.com/clion/
 
