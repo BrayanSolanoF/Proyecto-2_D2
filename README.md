@@ -18,7 +18,7 @@ y de cual posee los recursos.
 Una vez realizado el paso 1 deberá:
 
 **Para Windows:** 
-* Deberá ir a branches, el cual es un boton que se encuentra en la parte
+* Deberá ir a "Master", el cual es un boton que se encuentra en la parte
 superior izquierda de la seccion de "Code".
 * Una vez presionado este botón debe seleccionar el branch de nombre "Esteban".
 * A continuación encontrará tres carpetas, la que le corresponde a usted sera la de nombre "win", debe descargarla.
