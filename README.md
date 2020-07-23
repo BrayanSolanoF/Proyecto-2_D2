@@ -1,6 +1,6 @@
 **Spirit Tower**
 
-Es juego 2D de tipo RPG desarrollado a base la plataforma Unity.
+* Es juego 2D de tipo RPG desarrollado a base la plataforma Unity.
 
 * El juego fue diseñado para multiplataforma (Mac, Windows y Android)
 
@@ -12,15 +12,15 @@ Es juego 2D de tipo RPG desarrollado a base la plataforma Unity.
 Siendo usted un usario regular, es decir que solo desea jugar sin tener una 
 interaccion más técnica y profunda con el juego, usted debería:
 
-1) Identificar que plataforma es de su prefencia entre Mac, PC(Windows) o android, 
+* Identificar que plataforma es de su prefencia entre Mac, PC(Windows) o android, 
 y de cual posee los recursos.
 
-2)Una vez realizado el paso 1 deberá:
+Una vez realizado el paso 1 deberá:
 
 **Para Windows:** 
 * Deberá ir a branches, el cual es un boton que se encuentra en la parte
 superior izquierda de la seccion de "Code".
-* Una vez presionado este boton debe seleccionar el branch de nombre "Esteban".
+* Una vez presionado este botón debe seleccionar el branch de nombre "Esteban".
 * A continuación encontrará tres carpetas, la que le corresponde a usted sera la de nombre "win", debe descargarla.
 * Para poder descargar la carpeta debe mirar al extremo superior derecho y seleccionar "code", en el menú que se le despliega tomar la opcion de 
 "Download zip".
