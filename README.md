@@ -1,4 +1,4 @@
-#Spirit Tower 
+**Spirit Tower**
 
 Es juego 2D de tipo RPG desarrollado a base la plataforma Unity.
 
