@@ -56,7 +56,9 @@ b)Pasar este archivo a su telefono android, donde lo instalara y jugara.
 **Para Mac:** 
 * Para poder utilizar el juego en la plataforma de Mac deberá dirigirse al boton llamado "Master", ubicado en la parte superior izquierda de la ventana. 
 * Una vez seleccionado se despliega la sección de branches, ahí debe seleccionar "Brayan".
-* Al entrar al branch se despliegan diferentes carpetas, tanto para usuarios como para desarrolladores, deben proceder a descargar las carpetas, para esto debe dirigirse al boton "Code" y elejir la opción ".zip".
+* Al entrar al branch se despliegan diferentes carpetas, tanto para usuarios como para desarrolladores, deben proceder a descargar las carpetas, para esto debe dirigirse al boton "Code" y elejir la opción "Download zip".
+* Se ejecuta la descarga de la carpeta, al la descarga debe ubicarla en su sección de descargas y dar click derecho para poder descomprimir el archivo.
+
 
 
 3)(OPCINAL) Este paso se considera opcional por tener un implicación más técnica con el 
