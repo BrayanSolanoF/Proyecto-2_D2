@@ -17,21 +17,17 @@ y de cual posee los recursos.
 
 2)Una vez realizado el paso 1 deberá:
 
-**Para Windows:** Deberá ir a branches, el cual es un boton que se encuentra en la parte
-superior izquierda de la seccion de "Code", en este boton seleccionar el branch de 
-nombre "Esteban", en el cual encontrará tres carpetas la que le corresponde a usted sera la
-de nombre "win", debe descargarla, para hacerlo usted debe mirar al extremo superior 
-derecho y seleccionar "code", en el menú que se le despliega tomar la opcion de 
+**Para Windows:** 
+* Deberá ir a branches, el cual es un boton que se encuentra en la parte
+superior izquierda de la seccion de "Code".
+* Una vez presionado este boton debe seleccionar el branch de nombre "Esteban".
+* A continuación encontrará tres carpetas, la que le corresponde a usted sera la de nombre "win", debe descargarla.
+* Para poder descargar la carpeta debe mirar al extremo superior derecho y seleccionar "code", en el menú que se le despliega tomar la opcion de 
 "Download zip".
-
-Al poseer esta carpeta en su unidad, ya usted esta muy cerca de disfrutar del juego 
-"Spirit Tower", usted solo debera descomprimir la carpeta en el lugar de su preferencia, 
-esto seleccionando lo que usted descargo con click derecho y utilizar la opcion " extraer
-todo" (Puede variar segun la version de windows que utilice asi como el idioma que tenga 
-en su computadora), una vez obtenido el acceso a la carpeta, la abrira y encontrará otra de nombre
-"Proyecto-2_D2-Esteban", al abrir esta volvera a encontrar las tres carpetas que usted ya 
-habia visto en github, selecciona la de "win" y en la que usted notara varios archivos
-el de su interez es "Juego RPG Deb", al darle doble click sobre este usted ya esta listo
+* Al poseer esta carpeta en su unidad, ya usted esta muy cerca de disfrutar del juego "Spirit Tower", usted solo debera descomprimir la carpeta en el lugar de su preferencia.
+* Para esto debe dar click derecho sobre la carpeta y utilizar la opcion " extraer todo" (Puede variar segun la version de windows que utilice asi como el idioma que tenga en su computadora).
+* Una vez obtenido el acceso a la carpeta, la abrira y encontrará otra de nombre "Proyecto-2_D2-Esteban", al abrir esta volvera a encontrar las tres carpetas que usted ya habia visto en github.
+* Selecciona la de "win" y en la que usted notara varios archivos el de su interés es "Juego RPG Deb", al darle doble click sobre este usted ya esta listo
 para disfrutar del juego en su PC.
 
 **Para Android:** Debera ir a branches, el cual es un boton que se encuentra en la parte
