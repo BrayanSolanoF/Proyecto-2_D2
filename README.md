@@ -53,7 +53,7 @@ habia visto en github, selecciona la de "android" y en la que usted notara dos a
 a)Ejecutarlo desde un emulador en su PC.
 b)Pasar este archivo a su telefono android, donde lo instalara y jugara.
 
--Para Mac:......
+**Para Mac:** Para poder utilizar el juego en la plataforma de Mac deberá dirigirse a la sección de branch, y seleccionar "Brayan", una seleccionado
 
 3)(OPCINAL) Este paso se considera opcional por tener un implicación más técnica con el 
 juego, de queres utilizar el juego con una tranferencia de datos en un servidor local, 
