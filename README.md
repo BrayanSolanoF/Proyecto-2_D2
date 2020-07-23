@@ -59,20 +59,20 @@ habia visto en github.
 ****************************************************************
 **Instrucciones para jugar**
 
- Una vez se ejecute el juego se mostraraen pantalla el jugador en la pantalla "Principal"
- * El jugador se mueve con las flechas del teclado (↑,↓,→,←) así como con la teclas (W,S,A,D).
+ Una vez se ejecute el juego se mostrara en pantalla el jugador en la pantalla "Principal"
+ * El jugador se mueve con las flechas del teclado **(↑,↓,→,←)** así como con la teclas **(W,S,A,D)**.
  * El jugador posse dos tipos de ataques: 
-    * Corto que se activa con la tecla (Space)
-    * A distancia que se activa con la tecla (Z)
- * El jugador posee 10 vidas las cuales disminuyen conforme recibe ataques de los espectros.
- * El jugador puede evitar esos ataques utilizando un escudo que se activa con la tecla (E) o bien con un contraataque de los mencionados anteriormente.
- * El juego consta de 4 niveles en donde encontrará:
-    * Espectros que cuentan con tres vidas en total.
-    * Jarrones destructibles que contienen vidas.
-    * Cofres que contienen monedas (puntos).
-    * Zonas seguras (en forma de L) que evitan que los espectros ataquen.
- * El juego consta de un nivel final donde encontrará:
-    * El jefe final que cuenta con mayor vida y mayor velocidad de ataque.
+    * Corto que se activa con la tecla **(Space)**
+    * A distancia que se activa con la tecla **(Z)**
+ * El jugador posee **10 vidas** las cuales disminuyen conforme recibe ataques de los espectros.
+ * El jugador puede evitar esos ataques utilizando un escudo que se activa con la tecla **(E)** o bien con un contraataque de los mencionados anteriormente.
+ * El juego consta de **4 niveles** en donde encontrará:
+    * **Espectros** que cuentan con tres vidas en total.
+    * **Jarrones** destructibles que contienen vidas.
+    * **Cofres** que contienen monedas (puntos).
+    * **Zonas seguras** (en forma de L) que evitan que los espectros ataquen.
+ * El juego consta de un **nivel final** donde encontrará:
+    * El **jefe final** que cuenta con mayor vida y mayor velocidad de ataque.
 
 ****************************************************************
 **Instrucciones para uso de juego con servidor**
