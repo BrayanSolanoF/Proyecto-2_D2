@@ -58,6 +58,7 @@ habia visto en github.
 
 ****************************************************************
 **Instrucciones para jugar**
+
  Una vez se ejecute el juego se mostraraen pantalla el jugador en la pantalla "Principal"
  * El jugador se mueve con las flechas del teclado (↑,↓,→,←) así como con la teclas (W,S,A,D).
  * El jugador posse dos tipos de ataques: 
